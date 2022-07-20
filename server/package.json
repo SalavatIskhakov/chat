@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node longpulling.js",
-    "dev": "nodemon longpulling.js"
+    "start": "node eventsource.js",
+    "dev": "nodemon eventsource.js"
   },
   "keywords": [],
   "author": "",
